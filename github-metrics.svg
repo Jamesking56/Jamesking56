@@ -3298,7 +3298,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Webklex/php-imap</span>
-                                        <span>starred 4 days ago</span>
+                                        <span>starred 5 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -3340,7 +3340,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>spatie/laravel-activitylog</span>
-                                        <span>starred 4 days ago</span>
+                                        <span>starred 5 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -3463,7 +3463,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated Mon, 28 Jun 2021 22:12:18 (timezone Europe/London) with lowlighter/metrics@3.10.0</span>
+                <span>Last updated Mon, 28 Jun 2021 23:12:37 (timezone Europe/London) with lowlighter/metrics@3.10.0</span>
             </footer>
             <div id="metrics-end"></div>
         </div>
