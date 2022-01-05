@@ -2234,7 +2234,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>tg44/heptapod</span>
-                                        <span>starred 23 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">This is a command line application to manage and fine-tune Time Machine exclude paths.</div>
@@ -2281,7 +2281,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>stevegrunwell/asimov</span>
-                                        <span>starred 23 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Automatically exclude development dependencies from Apple Time Machine backups</div>
@@ -2437,7 +2437,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 5 Jan 2022, 22:14:27 (timezone Europe/London) with lowlighter/metrics@3.17.0</span>
+                <span>Last updated 5 Jan 2022, 23:14:33 (timezone Europe/London) with lowlighter/metrics@3.17.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
