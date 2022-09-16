@@ -2240,7 +2240,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>jellyfin/jellyfin</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The Free Software Media System</div>
@@ -2293,7 +2293,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>n8n-io/n8n</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.</div>
@@ -2449,7 +2449,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 16 Sept 2022, 13:32:14 (timezone Europe/London) with lowlighter/metrics@3.28.0</span>
+                <span>Last updated 16 Sept 2022, 14:47:46 (timezone Europe/London) with lowlighter/metrics@3.28.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
