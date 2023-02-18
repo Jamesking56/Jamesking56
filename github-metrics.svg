@@ -2292,7 +2292,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>shadcn/ui</span>
-                                        <span>starred 25 days ago</span>
+                                        <span>starred 26 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Beautifully designed components built with Radix UI and Tailwind CSS.</div>
@@ -2442,7 +2442,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 18 Feb 2023, 08:16:10 (timezone Europe/London) with lowlighter/metrics@3.32.0</span>
+                <span>Last updated 18 Feb 2023, 09:12:32 (timezone Europe/London) with lowlighter/metrics@3.32.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
