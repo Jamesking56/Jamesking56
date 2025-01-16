@@ -2235,7 +2235,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>peckphp/peck</span>
-                                        <span>starred 9 hours ago</span>
+                                        <span>starred 10 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Peck is a powerful CLI tool designed to identify pure wording or spelling (grammar) mistakes in your codebase.</div>
@@ -2444,7 +2444,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 16 Jan 2025, 04:17:26 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 16 Jan 2025, 05:14:32 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
