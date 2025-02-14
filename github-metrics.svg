@@ -2240,7 +2240,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Xammie/mailbook</span>
-                                        <span>starred 8 hours ago</span>
+                                        <span>starred 9 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">✉️ Laravel Mail Explorer</div>
@@ -2449,7 +2449,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 14 Feb 2025, 02:44:38 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 14 Feb 2025, 03:19:01 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
