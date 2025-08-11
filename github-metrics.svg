@@ -2220,7 +2220,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>binhnguyennus/awesome-scalability</span>
-                                        <span>starred 14 hours ago</span>
+                                        <span>starred 15 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The Patterns of Scalable, Reliable, and Performant Large-Scale Systems</div>
@@ -2321,7 +2321,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>beeyev/disposable-email-filter-php</span>
-                                        <span>starred 7 days ago</span>
+                                        <span>starred 8 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🗑 Disposable (temporary/throwaway/fake) email detection library. Framework agnostic with Laravel support included. Automatically updated.</div>
@@ -2374,7 +2374,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>endoflife-date/endoflife.date</span>
-                                        <span>starred 7 days ago</span>
+                                        <span>starred 8 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Informative site with EoL dates of everything</div>
@@ -2424,7 +2424,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 11 Aug 2025, 12:17:00 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 11 Aug 2025, 13:39:29 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
