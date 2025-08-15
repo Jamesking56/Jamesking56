@@ -2341,7 +2341,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>beeyev/disposable-email-filter-php</span>
-                                        <span>starred 11 days ago</span>
+                                        <span>starred 12 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🗑 Disposable (temporary/throwaway/fake) email detection library. Framework agnostic with Laravel support included. Automatically updated.</div>
@@ -2394,7 +2394,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>endoflife-date/endoflife.date</span>
-                                        <span>starred 11 days ago</span>
+                                        <span>starred 12 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Informative site with EoL dates of everything</div>
@@ -2444,7 +2444,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 15 Aug 2025, 12:15:34 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 15 Aug 2025, 13:35:33 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
