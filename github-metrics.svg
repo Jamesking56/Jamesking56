@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1025" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1042" class="">
     <defs>
         <style/>
     </defs>
@@ -2230,11 +2230,10 @@
                                     </svg>
                                     <div class="name">
                                         <span>nexxai/laravel-cfcache</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
-                                <div class="field description">
-                                </div>
+                                <div class="field description">A handful of Cloudflare cache helpers for Laravel</div>
                                 <div class="field infos">
                                     <div class="language">
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -2440,7 +2439,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 22 Oct 2025, 20:13:41 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 22 Oct 2025, 21:20:43 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
