@@ -2230,7 +2230,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>nexxai/laravel-cfcache</span>
-                                        <span>starred 18 hours ago</span>
+                                        <span>starred 19 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -2284,7 +2284,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>JustSteveKing/laravel-bastion</span>
-                                        <span>starred 11 days ago</span>
+                                        <span>starred 12 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Stripe-inspired API authentication with environment isolation, granular scopes, and built-in security.</div>
@@ -2440,7 +2440,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 22 Oct 2025, 14:31:26 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 22 Oct 2025, 15:18:35 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
