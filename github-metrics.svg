@@ -2235,7 +2235,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Namoshek/laravel-redis-sentinel</span>
-                                        <span>starred 17 hours ago</span>
+                                        <span>starred 18 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">An extension of Laravels Redis driver which supports connecting to a Redis master through Redis Sentinel.</div>
@@ -2288,7 +2288,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>SadServers/sadservers</span>
-                                        <span>starred 3 days ago</span>
+                                        <span>starred 4 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">SadServers: Linux &amp; DevOps Troubleshooting Scenarios SaaS</div>
@@ -2438,7 +2438,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 6 Nov 2025, 16:23:23 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 6 Nov 2025, 17:17:17 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
