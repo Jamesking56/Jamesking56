@@ -2288,7 +2288,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>randoneering/pgFirstAid</span>
-                                        <span>starred 3 days ago</span>
+                                        <span>starred 4 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Easy to deploy, open source, postgresql function that provides a prioritized list of actions to take to improve stability and performance.</div>
@@ -2444,7 +2444,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 20 Nov 2025, 15:19:02 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 20 Nov 2025, 16:23:32 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
