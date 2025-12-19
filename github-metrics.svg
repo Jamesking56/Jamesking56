@@ -2240,7 +2240,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>psviderski/uncloud</span>
-                                        <span>starred 11 hours ago</span>
+                                        <span>starred 12 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A lightweight tool for deploying and managing containerised applications across a network of Docker hosts. Bridging the gap between Docker and Kubernetes ✨</div>
@@ -2293,7 +2293,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>gitroomhq/postiz-app</span>
-                                        <span>starred 11 hours ago</span>
+                                        <span>starred 12 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">📨 The ultimate social media scheduling tool, with a bunch of AI  🤖</div>
@@ -2346,7 +2346,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>voidauth/voidauth</span>
-                                        <span>starred 12 hours ago</span>
+                                        <span>starred 13 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Single Sign-On for Your Self-Hosted Universe 🐈‍⬛🔒</div>
@@ -2443,7 +2443,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 19 Dec 2025, 06:29:04 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 19 Dec 2025, 07:20:35 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
