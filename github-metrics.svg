@@ -2235,7 +2235,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>DanielCoffey1/a-la-carchy</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A quick, easy, debloater for Omarchy Linux</div>
@@ -2382,7 +2382,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>hookdeck/webhook-skills</span>
-                                        <span>starred 13 days ago</span>
+                                        <span>starred 14 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Webhook integration skills for AI coding agents (Claude Code, Cursor, Copilot). Step-by-step guidance for setting up webhook receivers, signature verification, and event handling for Stripe, Shopify, GitHub, and more. Built on the Agent Skills specification.</div>
@@ -2432,7 +2432,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 5 Mar 2026, 14:57:02 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 5 Mar 2026, 15:49:43 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
