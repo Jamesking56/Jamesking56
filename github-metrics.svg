@@ -2240,7 +2240,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>basecamp/once</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Easy self-hosting for Docker-based web apps</div>
@@ -2293,7 +2293,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Cbrown35/20i-MCP</span>
-                                        <span>starred 21 hours ago</span>
+                                        <span>starred 22 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🚀 The first and only Model Context Protocol (MCP) server for 20i web hosting services. Transform your hosting management with AI-powered automation through Claude, ChatGPT, and other AI   assistants. 76 tools | 28.0% API coverage</div>
@@ -2443,7 +2443,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 3 Apr 2026, 21:34:18 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 3 Apr 2026, 22:31:33 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
