@@ -2245,7 +2245,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>basecamp/once</span>
-                                        <span>starred 22 hours ago</span>
+                                        <span>starred 23 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Easy self-hosting for Docker-based web apps</div>
@@ -2448,7 +2448,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 4 Apr 2026, 16:29:45 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 4 Apr 2026, 17:33:17 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
