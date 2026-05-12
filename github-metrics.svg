@@ -2225,7 +2225,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>dockur/macos</span>
-                                        <span>starred 9 hours ago</span>
+                                        <span>starred 11 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">MacOS inside a Docker container.</div>
@@ -2278,7 +2278,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>abi/screenshot-to-code</span>
-                                        <span>starred 12 hours ago</span>
+                                        <span>starred 14 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)</div>
@@ -2434,7 +2434,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 12 May 2026, 22:17:42 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 12 May 2026, 23:58:43 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
