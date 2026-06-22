@@ -5,6 +5,10 @@ on:
   schedule: [{cron: "0 * * * *"}]
   push: {branches: "main"}
   workflow_dispatch:
+
+permissions:
+  contents: write
+
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
