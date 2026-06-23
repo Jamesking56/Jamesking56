@@ -23,7 +23,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M5.5 3.5a2 2 0 100 4 2 2 0 000-4zM2 5.5a3.5 3.5 0 115.898 2.549 5.507 5.507 0 013.034 4.084.75.75 0 11-1.482.235 4.001 4.001 0 00-7.9 0 .75.75 0 01-1.482-.236A5.507 5.507 0 013.102 8.05 3.49 3.49 0 012 5.5zM11 4a.75.75 0 100 1.5 1.5 1.5 0 01.666 2.844.75.75 0 00-.416.672v.352a.75.75 0 00.574.73c1.2.289 2.162 1.2 2.522 2.372a.75.75 0 101.434-.44 5.01 5.01 0 00-2.56-3.012A3 3 0 0011 4z"/>
                             </svg>
-                            Followed by 36 users
+                            Followed by 35 users
                         </div>
                     </section>
                     <section>
@@ -2225,7 +2225,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ventoy/Ventoy</span>
-                                        <span>starred 7 hours ago</span>
+                                        <span>starred 8 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A new bootable USB solution.</div>
@@ -2278,7 +2278,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>tailscale/tailscale</span>
-                                        <span>starred 7 hours ago</span>
+                                        <span>starred 8 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The easiest, most secure way to use WireGuard and 2FA.</div>
@@ -2331,7 +2331,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>php/php-src</span>
-                                        <span>starred 8 hours ago</span>
+                                        <span>starred 9 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The PHP Interpreter</div>
@@ -2384,7 +2384,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>bug0inc/passmark</span>
-                                        <span>starred 13 days ago</span>
+                                        <span>starred 14 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The open-source Playwright library for AI browser regression testing with intelligent caching, auto-healing, and multi-model verification.</div>
@@ -2434,7 +2434,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 23 Jun 2026, 22:47:12 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 24 Jun 2026, 00:07:25 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
