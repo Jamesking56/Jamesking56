@@ -2244,7 +2244,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>chubin/wttr.in</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -2300,7 +2300,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ventoy/Ventoy</span>
-                                        <span>starred 4 days ago</span>
+                                        <span>starred 5 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A new bootable USB solution.</div>
@@ -2353,7 +2353,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>tailscale/tailscale</span>
-                                        <span>starred 4 days ago</span>
+                                        <span>starred 5 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The easiest, most secure way to use WireGuard and 2FA.</div>
@@ -2456,7 +2456,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 28 Jun 2026, 16:16:49 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 28 Jun 2026, 18:07:59 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
