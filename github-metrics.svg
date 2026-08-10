@@ -2220,7 +2220,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>dineshstack/laravel-audit</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Activity log &amp; audit trail for Laravel 13 — field-level diffs, IP capture, user attribution, batch grouping, data masking and a REST API, in one composer require.</div>
@@ -2273,7 +2273,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>itzg/docker-minecraft-server</span>
-                                        <span>starred 14 hours ago</span>
+                                        <span>starred 15 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Docker image that provides a Minecraft Server for Java Edition that automatically installs/upgrades versions, modloaders, modpacks and more at startup</div>
@@ -2423,7 +2423,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 10 Aug 2026, 23:34:27 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 11 Aug 2026, 00:32:23 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
