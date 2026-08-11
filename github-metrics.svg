@@ -2225,7 +2225,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>dineshstack/laravel-audit</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Activity log &amp; audit trail for Laravel 13 — field-level diffs, IP capture, user attribution, batch grouping, data masking and a REST API, in one composer require.</div>
@@ -2331,7 +2331,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>redwoodjs/local-ci</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Run GitHub Actions locally — pause on failure, retry in place, and keep caches on your machine.</div>
@@ -2428,7 +2428,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 11 Aug 2026, 20:13:45 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 11 Aug 2026, 21:40:04 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
