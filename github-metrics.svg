@@ -2235,7 +2235,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>spatie/laravel-fast-paginate</span>
-                                        <span>starred 15 hours ago</span>
+                                        <span>starred 16 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A fast limit/offset paginator for Laravel</div>
@@ -2288,7 +2288,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>masterix21/laravel-licensing</span>
-                                        <span>starred 16 hours ago</span>
+                                        <span>starred 18 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A licensing package for Laravel with offline verification, seat management, cryptographic key rotation, and multi-product support.</div>
@@ -2341,7 +2341,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>masterix21/laravel-licensing-client</span>
-                                        <span>starred 16 hours ago</span>
+                                        <span>starred 18 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A comprehensive Laravel package for integrating license validation in your applications. This client package works with the masterix21/laravel-licensing server to provide secure, offline-capable license management using PASETO v4 tokens.</div>
@@ -2394,7 +2394,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>JustSteveKing/api-skill</span>
-                                        <span>starred 16 hours ago</span>
+                                        <span>starred 18 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">An opinionated agent skill that encodes production-ready patterns for building REST APIs in Laravel 13+.</div>
@@ -2438,7 +2438,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 13 Aug 2026, 14:03:19 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 13 Aug 2026, 15:54:34 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
