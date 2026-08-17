@@ -2273,7 +2273,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>masterix21/laravel-licensing</span>
-                                        <span>starred 4 days ago</span>
+                                        <span>starred 5 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A licensing package for Laravel with offline verification, seat management, cryptographic key rotation, and multi-product support.</div>
@@ -2326,7 +2326,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>masterix21/laravel-licensing-client</span>
-                                        <span>starred 4 days ago</span>
+                                        <span>starred 5 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A comprehensive Laravel package for integrating license validation in your applications. This client package works with the masterix21/laravel-licensing server to provide secure, offline-capable license management using PASETO v4 tokens.</div>
@@ -2423,7 +2423,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 17 Aug 2026, 22:23:02 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 17 Aug 2026, 23:21:08 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
