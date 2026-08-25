@@ -2331,7 +2331,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>AmrLotfy/laravel-chores</span>
-                                        <span>starred 6 days ago</span>
+                                        <span>starred 7 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Batched, checkpointed, resumable data operations for Laravel — backfills, cleanups, and migrations that survive deploys, crashes, and Ctrl+C.</div>
@@ -2434,7 +2434,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 25 Aug 2026, 19:35:30 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 25 Aug 2026, 20:28:59 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
