@@ -2225,7 +2225,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>boring-o11y/wirestan</span>
-                                        <span>starred 6 days ago</span>
+                                        <span>starred 7 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A collection of PHPStan rules for correct LiveWire usage</div>
@@ -2331,7 +2331,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>agent0ai/tuxee</span>
-                                        <span>starred 12 days ago</span>
+                                        <span>starred 13 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Tuxee - the most convenient Linux for servers and agents.</div>
@@ -2384,7 +2384,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>pricorephp/pricore</span>
-                                        <span>starred 16 days ago</span>
+                                        <span>starred 17 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Private Composer Registry for PHP Teams</div>
@@ -2434,7 +2434,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 10 Nov 2026, 17:28:57 (timezone Europe/London) with lowlighter/metrics@3.34.0-beta</span>
+                <span>Last updated 10 Nov 2026, 22:49:42 (timezone Europe/London) with lowlighter/metrics@3.34.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
